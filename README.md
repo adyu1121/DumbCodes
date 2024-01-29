@@ -1,1 +1,2 @@
-# DumbCode
+# DumbCodes
+Dumb Codes Collection with C#
